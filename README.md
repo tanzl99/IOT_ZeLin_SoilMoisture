@@ -37,5 +37,5 @@ Liquid Crystal Display (LCD) by Adafruit https://github.com/adafruit/Adafruit_Li
  
 ### Pinouts
 ![soil moisture pinout](https://github.com/tanzl99/IOT_ZeLin_SoilMoisture/assets/71513813/5cb6189c-63a2-4f67-9411-0f90860c905c)
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/DUF6QH1VmHw/0.jpg)](https://www.youtube.com/watch?v=DUF6QH1VmHw)
+[![IMAGE ALT TEXT HERE]([https://github.com/tanzl99/IOT_ZeLin_SoilMoisture/assets/71513813/8f962381-21f8-4974-9070-d987d70a20da](https://github.com/tanzl99/IOT_ZeLin_SoilMoisture/assets/71513813/8f962381-21f8-4974-9070-d987d70a20da))](https://www.youtube.com/watch?v=DUF6QH1VmHw)
 
