@@ -116,18 +116,24 @@ Some potential upgrades in parts and more functions I thought would be nice to h
 
 #### OLED Display
 -Although it is smaller than the LCD in terms of screen size, the ease of use is greatly appreciated. 
+
 -A total of 12 pins plus soldering is required for the LCD Screen (1602A) compared to only 4 for the OLED Screen (SSD1306).
+
 -More display options such as fontsize, fonts, shapes, images and even GIF and videos.
 
 #### Capacitive Soil Moisture Sensor
 -The cheaper resistive Soil Moisture Sensors passes current through the soil via the 2 probes, which causes electrolysis of the sensors, corroding and degrading it over time
+
 -It is more reliable to measure as it measures ions dissolved in the moisture over the resistance of the soil. This is important as adding fertilisers decreases resistivity of the soil, "increasing" the soil moisture even though no water was added.
+
 -More variables can be measured with the Capacitive Soil Moisture Sensor such as the aforementioned fertilisers
 
 ### Part Alternatives
 #### Speaker Output
 -Since I was using a ESP32 C3 devboard, I was unable to play much audio due to codec limitations.
+
 -With upgrades to the devboard, audio can be played and used to replace or complement the screen
+
 -One idea for the audio is with multiple plant and sensor setups. When the water moisture is acceptable, the speaker can play a specific note which harmonises with the rest. When the water moisture is unacceptable, the speaker can play another note which ruins the harmony
 
 
