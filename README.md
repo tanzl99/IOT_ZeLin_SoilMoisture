@@ -2,7 +2,7 @@
 # Tan Ze Lin's ESP32 PDS IOT Project
 
 This project is for PDS, where I have an input and output through firebase using an ESP32 C3 Mini 1 developer board.
-[![IMAGE ALT TEXT HERE]([https://github.com/tanzl99/IOT_ZeLin_SoilMoisture/assets/71513813/8f962381-21f8-4974-9070-d987d70a20da)](https://github.com/tanzl99/IOT_ZeLin_SoilMoisture/assets/71513813/8f962381-21f8-4974-9070-d987d70a20da))](https://www.youtube.com/watch?v=DUF6QH1VmHw)
+![IMAGE ALT TEXT HERE]([https://github.com/tanzl99/IOT_ZeLin_SoilMoisture/assets/71513813/8f962381-21f8-4974-9070-d987d70a20da)](https://github.com/tanzl99/IOT_ZeLin_SoilMoisture/assets/71513813/8f962381-21f8-4974-9070-d987d70a20da))](https://www.youtube.com/watch?v=DUF6QH1VmHw)
 
 
 ## Things used in this project
@@ -36,6 +36,6 @@ Firebase ESP32 by mobizt: https://github.com/mobizt/Firebase-ESP32
 Liquid Crystal Display (LCD) by Adafruit https://github.com/adafruit/Adafruit_LiquidCrystal
  
 ### Pinouts
-![soil moisture pinout](https://github.com/tanzl99/IOT_ZeLin_SoilMoisture/assets/71513813/5cb6189c-63a2-4f67-9411-0f90860c905c)
+![soil moisture pinout](https://github.com/tanzl99/IOT_ZeLin_SoilMoisture/assets/71513813/5cb6189c-63a2-4f67-9411-0f90860c905c)]
 
 
