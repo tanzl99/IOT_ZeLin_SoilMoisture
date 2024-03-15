@@ -46,8 +46,11 @@ Soil Moisture Sensor (Resistive) Pinout Diagram
   *Note: Digital Outpin pin works as well, but I used Analog so its Pin "A2" in my code.
   
 ![Screen pinout](https://github.com/tanzl99/IOT_ZeLin_SoilMoisture/assets/71513813/86ece50a-8317-4557-9dfd-56f01c151b4d)
+
 LCD Screen Pinout Diagram
+
 ![Screenshot 2024-03-15 183553](https://github.com/tanzl99/IOT_ZeLin_SoilMoisture/assets/71513813/7dfd22b4-76ba-488b-b97a-8b14a5bf500a)
+
 LCD Pinout
 - Connect Potentiometer and Pins 2 and 15 of the LCD IN PARALLEL (usually labelled "VDD" and "A" respectively) to a 5V header on the devboard (labelled "5V").
 - Connect Potentiometer and Pins 1, 5 and 16 of the LCD IN PARALLEL (usually labelled "VSS", "RW" and "K" respectively) to a Ground header on the devboad (labelled "GND").
