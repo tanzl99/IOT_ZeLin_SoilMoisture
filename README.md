@@ -32,7 +32,10 @@ This soil moisture project serves as a base design to achieve that goal, with ro
 ## You can do it too!!
 ### Install the relevant libraries
 Firebase ESP32 by mobizt: https://github.com/mobizt/Firebase-ESP32
+
 Liquid Crystal Display (LCD) by Adafruit https://github.com/adafruit/Adafruit_LiquidCrystal
-
-
+ 
+### Pinouts
+![soil moisture pinout](https://github.com/tanzl99/IOT_ZeLin_SoilMoisture/assets/71513813/5cb6189c-63a2-4f67-9411-0f90860c905c)
+(https://youtube.com/shorts/DUF6QH1VmHw?si=odEiVs5HCTP1drzd)
 
