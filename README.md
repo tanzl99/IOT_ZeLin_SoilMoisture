@@ -58,3 +58,29 @@ LCD Pinout
 - Connect Pins 4, 6, 11, 12, 13 and 14 of the LCD (usually labelled "RS", "E", "D4", "D5", "D6" and "D7" respectively) to the devboard, each to a respective GPIO Header. (I used GPIO Pin 10, 1, 0, 4, 5 and 6 respectively)
 
 Lastly, I connected a button to my devboard (I used GPIO Pin 9 and Ground).
+
+### Firebase
+#### Getting into Firebase
+1) Go to Firebase https://firebase.google.com/ and sign in using a Google Account.
+2) Click "Get Started"
+3) Click "Add project" to create a new project
+4) Give it a name!
+
+#### Authentication
+1) Open up "Authentication" on the main console
+2) Click "Get Started", this is essential to generate your unique API Key
+3) Under "Sign-in providers", none is needed for testing purposes.
+4) Open up "Project settings" on the main console by clicking on the "gear" icon beside "Project Overview"
+5) Under "General", copy and save the Web API Key
+
+#### Realtime Database
+1) Open up "Realtime Database" on the main console
+2) Select your database location, preferably somewhere closest to you to minimise latency
+3) Select "Start in test mode" since this is a test code so security is not a priority
+4) Now that it is created, copy and save the database URL
+
+#### Arduino IDE Library
+1) Install the Firebase ESP Client Library by mobizt: https://github.com/mobizt/Firebase-ESP32
+2) Choose the Client most suitable for you (ESP8266 and/or ESP32)
+3) Click "Add to Project"
+4) 
